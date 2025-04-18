@@ -12,6 +12,7 @@
 
 **THE-GULL** is a Slack Bot that uses natural language processing (NLP) to analyze participation and contribution in team projects.  
 It aims to promote fair collaboration by visualizing each member’s level of engagement and providing transparent, data-driven feedback on performance.
+https://youtu.be/9yCiiAUoqdg
 
 ### 🔍 Motivation
 
